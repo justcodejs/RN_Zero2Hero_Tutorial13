@@ -1,0 +1,20 @@
+{
+  "en": {
+    "Title" : "My Favourite",
+    "AddedOn": "Added On: ",
+    "NoListing": "No favourite word.",
+    "Login": "Login"
+  },
+  "zh": {
+    "Title" : "我的最爱",
+    "AddedOn": "收藏于：",
+    "NoListing": "没有最爱的词。",
+    "Login": "登录"
+  },
+  "kr": {
+    "Title" : "내가 좋아하는",
+    "AddedOn": "에 추가: ",
+    "NoListing": "좋아하는 단어가 없습니다.",
+    "Login": "로그인"
+  }
+}

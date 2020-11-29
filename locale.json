@@ -1,0 +1,92 @@
+{
+  "en": {
+    "DrawerNav": {
+      "Screens" : {
+        "Home" : "Home",
+        "MyProfile" : "My Profile",
+        "About" : "About"
+      }
+    },
+    "TabNav": {
+      "Tabs" : {
+        "Search": "Search",
+        "Fav": "Fav",
+        "Setting": "Setting"
+      }
+    },
+    "DailyWord": {
+      "Title": "Daily Word",
+      "Msg": "Today word is [{0}]",
+      "View": "View",
+      "Close": "Cancel"
+    },
+    "VersionUpgrade": {
+      "Title": "Version Upgrade",
+      "Msg": "New version available, click Update to upgrade to the latest version.",
+      "View": "Update",
+      "Close": "Cancel"
+    },
+    "Crashlytics" : {
+      "Title": "Allow Crashlytics",
+      "Msg": "Allow JustCodeDict to send Crashlytics data to Google Firebase?",
+      "Allow": "Allow",
+      "Deny": "Deny"
+    }
+  },
+  "zh": {
+    "DrawerNav": {
+      "Screens" : {
+        "Home" : "首页",
+        "MyProfile" : "个人资料",
+        "About" : "关于"
+      }
+    },
+    "TabNav": {
+      "Tabs" : {
+        "Search": "收索",
+        "Fav": "最爱",
+        "Setting": "设置"
+      }
+    },
+    "DailyWord": {
+      "Title": "每日一字",
+      "Msg": "今天的每日一字是 [{0}]",
+      "View": "查看",
+      "Close": "关闭"
+    },
+    "VersionUpgrade": {
+      "Title": "版本更新",
+      "Msg": "我们提升啦！请点击更新以提升现有版本。",
+      "View": "更新",
+      "Close": "取消"
+    }
+  },
+  "kr": {
+    "DrawerNav": {
+      "Screens" : {
+        "Home" : "홈페이지",
+        "MyProfile" : "내 프로필",
+        "About" : "약"
+      }
+    },
+    "TabNav": {
+      "Tabs" : {
+        "Search": "검색",
+        "Fav": "인기 있는 말",
+        "Setting": "놓음"
+      }
+    },
+    "DailyWord": {
+      "Title": "일일 단어",
+      "Msg": "오늘의 단어는 [{0}]입니다.",
+      "View": "보기",
+      "Close": "닫기"
+    },
+    "VersionUpgrade": {
+      "Title": "버전 업데이트",
+      "Msg": "업그레이드 중입니다. 기존 버전을 업그레이드하려면 업데이트를 클릭하십시오.",
+      "View": "업데이트",
+      "Close": "취소"
+    }
+  }
+}

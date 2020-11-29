@@ -1,0 +1,14 @@
+{
+  "en": {
+    "Prompt": "Please select a word below and click on the Ok button.",
+    "BtnOK" : "Ok"
+  },
+  "zh": {
+    "Prompt": "请在下面选择一个单词，然后单击确定按钮。",
+    "BtnOK" : "确定"
+  },
+  "kr": {
+    "Prompt": "아래에서 단어를 선택하고 확인 버튼을 클릭하십시오.",
+    "BtnOK": "확인"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "en": {
+    "Title" : "My Profile",
+    "Field": {
+      "Name" : {
+        "Label" : "Name",
+        "Value" : "Just Code"
+      },
+      "Gender" : {
+        "Label" : "Gender",
+        "Value" : "Male"
+      },
+      "Age" : {
+        "Label" : "Age",
+        "Value" : "It is a secret :P"
+      },
+      "Address" : {
+        "Label" : "Address",
+        "Value" : "Somewhere out there in Singapore"
+      }
+    },
+    "Button" : {
+      "Login": "Log In",
+      "Logout": "Log Out"
+    }
+  },
+  "zh": {
+    "Title" : "我的简历",
+    "Field": {
+      "Name" : {
+        "Label" : "名字",
+        "Value" : "Just Code"
+      },
+      "Gender" : {
+        "Label" : "性别",
+        "Value" : "男"
+      },
+      "Age" : {
+        "Label" : "年龄",
+        "Value" : "这是个秘密 :P"
+      },
+      "Address" : {
+        "Label" : "地址",
+        "Value" : "在新加坡的某个地方。"
+      }
+    },
+    "Button" : {
+      "Login": "登录",
+      "Logout": "注销"
+    }
+  },
+  "kr": {
+    "Title" : "내 프로필",
+    "Field": {
+      "Name" : {
+        "Label" : "이름",
+        "Value" : "Just Code"
+      },
+      "Gender" : {
+        "Label" : "성별",
+        "Value" : "남성"
+      },
+      "Age" : {
+        "Label" : "나이",
+        "Value" : "비밀이야 :P"
+      },
+      "Address" : {
+        "Label" : "주소",
+        "Value" : "싱가포르 어딘가에"
+      }
+    },
+    "Button" : {
+      "Login": "로그인",
+      "Logout": "로그 아웃"
+    }
+  }
+}

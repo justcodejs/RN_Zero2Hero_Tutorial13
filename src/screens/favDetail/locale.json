@@ -1,0 +1,23 @@
+{
+  "en": {
+    "Title" : "Word Detail",
+    "Error": {
+      "OxfordIssue" : "Unable to get result from Oxford: ",
+      "InvalidWord" : "Invalid word. Please specify a valid word."
+    }
+  },
+  "zh": {
+    "Title" : "单词定义",
+    "Error": {
+      "OxfordIssue" : "无法从牛津词典获得结果：",
+      "InvalidWord" : "无效的单词。 请指定一个有效的单词。"
+    }
+  },
+  "kr": {
+    "Title" : "단어 정의",
+    "Error": {
+      "OxfordIssue" : "옥스포드 사전에서 결과를 얻을 수 없습니다 : ",
+      "InvalidWord" : "잘못된 단어입니다. 유효한 단어를 지정하십시오."
+    }
+  }
+}

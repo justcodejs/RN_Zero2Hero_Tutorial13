@@ -1,0 +1,29 @@
+{
+  "en": {
+    "title": "Setting",
+    "desc": "Please select the App language.",
+    "language": {
+      "english": "English",
+      "chinese": "华语",
+      "korean": "한국어"
+    }
+  },
+  "zh": {
+    "title": "设置",
+    "desc": "请选择应用语言。",
+    "language": {
+      "english": "English",
+      "chinese": "华语",
+      "korean": "한국어"
+    }
+  },
+  "kr": {
+    "title": "놓음",
+    "desc": "앱 언어를 선택하십시오.",
+    "language": {
+      "english": "English",
+      "chinese": "华语",
+      "korean": "한국어"
+    }
+  }
+}

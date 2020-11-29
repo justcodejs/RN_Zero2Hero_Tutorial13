@@ -1,0 +1,56 @@
+{
+  "en": {
+    "Camera": {
+      "Permission" : {
+        "Title" : "Permission to use camera",
+        "Message" : "We need your permission to use your camera",
+        "BtnOK" : "Ok",
+        "BtnCancel" : "Cancel"
+      }
+    },
+    "Audio": {
+      "Permission" : {
+        "Title" : "Permission to use audio",
+        "Message" : "We need your permission to use your audio",
+        "BtnOK" : "Ok",
+        "BtnCancel" : "Cancel"
+      }
+    }
+  },
+  "zh": {
+    "Camera": {
+      "Permission" : {
+        "Title" : "使用相机的权限",
+        "Message" : "我们需要您的许可才能使用您的相机",
+        "BtnOK" : "确定",
+        "BtnCancel" : "取消"
+      }
+    },
+    "Audio": {
+      "Permission" : {
+        "Title" : "使用音频的权限",
+        "Message" : "我们需要您的许可才能使用您的音频",
+        "BtnOK" : "确定",
+        "BtnCancel" : "取消"
+      }
+    }
+  },
+  "kr": {
+    "Camera": {
+      "Permission": {
+        "Title": "카메라 사용 권한",
+        "Message": "카메라 사용 권한이 필요합니다",
+        "BtnOK": "확인",
+        "BtnCancel": "취소"
+      }
+    },
+    "Audio": {
+      "Permission": {
+      "Title": "오디오 사용 권한",
+      "Message": "오디오를 사용하려면 허가가 필요합니다.",
+      "BtnOK": "확인",
+      "BtnCancel": "취소"
+      }
+    }
+  }
+}

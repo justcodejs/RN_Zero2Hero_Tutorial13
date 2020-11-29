@@ -1,0 +1,35 @@
+{
+  "en": {
+    "Title" : "My Dictionary",
+    "SubTitle": "Just Code Dictionary",
+    "PlaceHolder": "Key in the word to search",
+    "BtnSearch": "Search",
+    "Error": {
+      "EmptyWord" : "Please specify the word to lookup.",
+      "OxfordIssue" : "Unable to get result from Oxford: ",
+      "InvalidWord" : "Invalid word. Please specify a valid word."
+    }
+  },
+  "zh": {
+    "Title" : "我的字典",
+    "SubTitle": "Just Code 字典",
+    "PlaceHolder": "输入要搜索的词",
+    "BtnSearch": "搜索",
+    "Error": {
+      "EmptyWord" : "请指定要查询的单词。",
+      "OxfordIssue" : "无法从牛津词典获得结果：",
+      "InvalidWord" : "无效的单词。 请指定一个有效的单词。"
+    }
+  },
+  "kr": {
+    "Title" : "내 사전",
+    "SubTitle": "Just Code 사전",
+    "PlaceHolder": "검색 할 단어를 입력하십시오",
+    "BtnSearch": "검색",
+    "Error": {
+      "EmptyWord" : "조회 할 단어를 지정하십시오.",
+      "OxfordIssue" : "옥스포드 사전에서 결과를 얻을 수 없습니다 : ",
+      "InvalidWord" : "잘못된 단어입니다. 유효한 단어를 지정하십시오."
+    }
+  }
+}

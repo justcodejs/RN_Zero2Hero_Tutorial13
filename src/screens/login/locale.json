@@ -1,0 +1,65 @@
+{
+  "en": {
+    "title": "Login",
+    "placeholder": {
+      "email": "Email address",
+      "password": "Your password"
+    },
+    "btnLogin": "Login",
+    "btnSignUp": "Sign Up",
+    "btnForgetPwd": "Forget password?",
+    "error" : {
+      "noEmail": "Please specify your email.",
+      "notValidEmail": "Please specify an valid email.",
+      "noPassword": "Please specify your password.",
+      "notValidPassword": "Please specify an valid password. Password must be at lease 8 characters with upper and lower case, and with symbol.",
+      "loginFailed": "Login failed. Please key in a valid credential. If you have not sign up yet, please click on the Sign Up button.",
+      "signUpEmailInUse": "The email you specified already been used.",
+      "signUpEmailInvalid": "Please speicfy an valid email.",
+      "signupError" : "Unable to perform account sign up. Please try again."
+    },
+    "forgetPwdSent": "The email to reset your password is sent to :"
+  },
+  "zh": {
+    "title": "登入",
+    "placeholder": {
+      "email": "电子邮件地址",
+      "password": "您的密码"
+    },
+    "btnLogin": "登入",
+    "btnSignUp": "注册",
+    "btnForgetPwd": "忘记密码？",
+    "error" : {
+      "noEmail": "请指定您的电子邮件。",
+      "notValidEmail": "请指定一个有效的电子邮件。",
+      "noPassword": "请指定您的密码。",
+      "notValidPassword": "请指定一个有效的密码。密码必须为至少8个字符，大小写并带有符号。",
+      "loginFailed": "登录失败。 请输入有效的凭证。 如果尚未注册，请单击“注册”按钮。",
+      "signUpEmailInUse": "您指定的电子邮件已被使用。",
+      "signUpEmailInvalid": "请指定一个有效的电子邮件。",
+      "signupError" : "无法执行帐户注册。 请稍后再试。"
+    },
+    "forgetPwdSent": "重设密码的电子邮件已发送至 :"
+  },
+  "kr": {
+    "title": "로그인",
+    "placeholder": {
+      "email": "이메일 주소",
+      "password": "비밀번호"
+    },
+    "btnLogin": "로그인",
+    "btnSignUp": "가입하기",
+    "btnForgetPwd": "비밀번호 분실?",
+    "error" : {
+      "noEmail": "이메일을 지정하십시오.",
+      "notValidEmail": "유효한 이메일을 지정하십시오.",
+      "noPassword": "비밀번호를 지정하십시오.",
+      "notValidPassword": "유효한 암호를 지정하십시오. 암호는 대소 문자 및 기호가있는 8 자 이상이어야합니다.",
+      "loginFailed": "로그인 실패. 유효한 자격 증명을 입력하십시오. 아직 가입하지 않았다면 가입 버튼을 클릭하십시오.",
+      "signUpEmailInUse": "지정한 이메일이 이미 사용되었습니다.",
+      "signUpEmailInvalid": "유효한 이메일을 지정하십시오.",
+      "signupError" : "계정 등록을 수행 할 수 없습니다. 다시 시도하십시오."
+    }
+  },
+  "forgetPwdSent": "비밀번호 재설정 이메일이 다음으로 전송됩니다 :"
+}

@@ -1,0 +1,8 @@
+{
+  "react-native": {
+    "messaging_android_notification_color": "@color/hotpink",
+    "messaging_android_notification_channel_id": "JustCodeDict",
+    "crashlytics_auto_collection_enabled": false,
+    "crashlytics_debug_enabled": true
+  }
+}
